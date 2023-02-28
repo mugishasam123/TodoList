@@ -8,6 +8,8 @@
 
 <br/>
 
+![Screenshot from 2023-02-28 17-48-44](https://user-images.githubusercontent.com/90524466/221905796-cd75aaae-c5bb-4554-bc9c-53fb3d6ae0c6.png)
+
 Additional description about the project and its features.
 
 ## Built With
